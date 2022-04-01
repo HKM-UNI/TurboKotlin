@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">paint-emu</string>
+    <string name="app_name">Primitivas Gráficas</string>
     <string name="canvasContentDescription">Paint-emu is a simple line drawing app.</string>
 </resources>
